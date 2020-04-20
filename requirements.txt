@@ -1,0 +1,4 @@
+ipython
+mcpi
+pillow
+numpy
